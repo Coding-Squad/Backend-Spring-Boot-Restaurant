@@ -1,0 +1,8 @@
+@relation QueryResult
+
+@attribute COUNT(id) numeric
+@attribute (SUM(rating))/(COUNT(id)) numeric
+@attribute come_back {No,Yes}
+
+@data
+6,1.8333,?
