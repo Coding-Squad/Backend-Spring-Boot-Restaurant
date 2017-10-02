@@ -6,7 +6,7 @@ Intelligent restaurant is a project that allows a dynamic restaurant management 
 
 - Install maven
 - Under the main directory, run `mvn clean install`
-- Run as Sprinb Boot App
+- Run as Spring Boot App
 
 ## Tools used
 
